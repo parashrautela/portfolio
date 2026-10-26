@@ -1,0 +1,113 @@
+/* testing page styles */
+@media (min-width: 1200px) {
+  .hidden-wq5lyl {
+    display: none !important;
+  }
+}
+@media (max-width: 1199.98px) {
+  .hidden-wfpt00 {
+    display: none !important;
+  }
+}
+.framer-sKhoa.framer-1d4xyjr,
+.framer-sKhoa .framer-1d4xyjr {
+  display: block;
+}
+.framer-sKhoa.framer-wq5lyl {
+  height: min-content;
+  overflow: var(--overflow-clip-fallback, clip);
+  background-color: #000;
+  flex-flow: column;
+  place-content: center flex-start;
+  align-items: center;
+  gap: 0;
+  width: 1200px;
+  padding: 0;
+  display: flex;
+  position: relative;
+}
+.framer-sKhoa .framer-1bds1jd {
+  height: 100vh;
+  overflow: var(--overflow-clip-fallback, clip);
+  will-change: var(--framer-will-change-filter-override, filter);
+  flex-flow: column;
+  flex: none;
+  place-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 0;
+  display: flex;
+  position: relative;
+}
+.framer-sKhoa .framer-1pymubm {
+  will-change: var(--framer-will-change-filter-override, filter);
+  flex: none;
+  gap: 0;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+.framer-sKhoa .framer-1sehuxp {
+  flex-flow: column;
+  flex: none;
+  place-content: flex-start center;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  height: min-content;
+  padding: 0 0 0 200px;
+  display: flex;
+  position: absolute;
+  top: 74px;
+  left: 50%;
+  overflow: visible;
+  transform: translate(-50%);
+}
+.framer-sKhoa .framer-1j8ds7s {
+  --framer-link-text-color: #09f;
+  --framer-link-text-decoration: underline;
+  text-shadow: -5px -2px 4.8px #00000040;
+  white-space: pre-wrap;
+  word-break: break-word;
+  word-wrap: break-word;
+  flex: none;
+  width: 448px;
+  height: 169px;
+  position: relative;
+}
+.framer-sKhoa .framer-1scgk6y {
+  --framer-link-text-color: #09f;
+  --framer-link-text-decoration: underline;
+  white-space: pre-wrap;
+  word-break: break-word;
+  word-wrap: break-word;
+  flex: none;
+  width: 307px;
+  height: 82px;
+  position: relative;
+}
+.framer-sKhoa .framer-1fgpl9t-container {
+  flex: none;
+  position: absolute;
+  inset: 0;
+}
+@media (max-width: 1199.98px) {
+  .framer-sKhoa.framer-wq5lyl {
+    width: 390px;
+  }
+  .framer-sKhoa .framer-1sehuxp {
+    align-content: flex-end;
+    align-items: flex-end;
+    gap: 29px;
+    padding: 0 10px 0 0;
+  }
+  .framer-sKhoa .framer-1j8ds7s {
+    width: 315px;
+    height: 64px;
+  }
+  .framer-sKhoa .framer-1scgk6y {
+    width: 317px;
+  }
+}

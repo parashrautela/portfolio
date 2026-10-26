@@ -1,0 +1,26 @@
+{
+  "name": "parashux",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "npx serve@14.2.4 out -l 3000"
+  },
+  "dependencies": {
+    "@studio-freight/lenis": "1.0.42",
+    "framer-motion": "12.29.3",
+    "gsap": "3.12.5",
+    "next": "15.5.27",
+    "react": "19.1.9",
+    "react-dom": "19.1.9",
+    "three": "0.174.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "@types/react": "19.1.8",
+    "@types/react-dom": "19.1.6",
+    "@types/three": "0.174.0",
+    "typescript": "5.7.2"
+  }
+}

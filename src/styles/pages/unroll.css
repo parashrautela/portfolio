@@ -1,0 +1,260 @@
+/* unroll page styles */
+@media (min-width: 1200px) {
+  .hidden-ot5tus {
+    display: none !important;
+  }
+}
+@media (max-width: 1199.98px) {
+  .hidden-16p8yl1 {
+    display: none !important;
+  }
+}
+.framer-XW6WS.framer-1lyiy9p,
+.framer-XW6WS .framer-1lyiy9p {
+  display: block;
+}
+.framer-XW6WS.framer-ot5tus {
+  height: min-content;
+  overflow: var(--overflow-clip-fallback, clip);
+  background-color: #050505;
+  flex-flow: column;
+  place-content: center flex-start;
+  align-items: center;
+  gap: 0;
+  width: 1200px;
+  padding: 0;
+  display: flex;
+  position: relative;
+}
+.framer-XW6WS .framer-103bphh {
+  flex-flow: column;
+  flex: none;
+  place-content: center flex-start;
+  align-items: center;
+  gap: 0;
+  width: 100%;
+  height: min-content;
+  padding: 0;
+  display: flex;
+  position: relative;
+  overflow: visible;
+}
+.framer-XW6WS .framer-14vj6d6 {
+  flex-flow: column;
+  flex: none;
+  place-content: center;
+  align-items: center;
+  gap: 0;
+  width: 100%;
+  max-width: 1920px;
+  height: min-content;
+  padding: 0;
+  display: flex;
+  position: relative;
+  overflow: visible;
+}
+.framer-XW6WS .framer-1nkhoy5 {
+  z-index: 2;
+  flex-flow: column;
+  flex: none;
+  place-content: center;
+  align-items: center;
+  gap: 100px;
+  width: 100%;
+  height: min-content;
+  padding: 0;
+  display: flex;
+  position: relative;
+  overflow: visible;
+}
+.framer-XW6WS .framer-tgi333 {
+  z-index: 1;
+  flex-flow: row;
+  flex: none;
+  place-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  height: 100vh;
+  padding: 0;
+  display: flex;
+  position: sticky;
+  top: 0;
+  overflow: hidden;
+}
+.framer-XW6WS .framer-1sjh567 {
+  max-width: 1440px;
+  height: min-content;
+  overflow: var(--overflow-clip-fallback, clip);
+  z-index: 6;
+  flex-flow: row;
+  flex: none;
+  place-content: flex-end center;
+  align-items: flex-end;
+  gap: 20px;
+  width: 100%;
+  padding: 0 24px;
+  display: flex;
+  position: absolute;
+  bottom: 32px;
+  left: 50%;
+  transform: translate(-50%);
+}
+.framer-XW6WS .framer-1ryn38c {
+  height: min-content;
+  overflow: var(--overflow-clip-fallback, clip);
+  z-index: 3;
+  flex-flow: column;
+  flex: 1 0 0;
+  place-content: flex-start flex-end;
+  align-items: flex-start;
+  gap: 0;
+  width: 1px;
+  padding: 0 0 40px;
+  display: flex;
+  position: relative;
+}
+.framer-XW6WS .framer-x6fqs0 {
+  --framer-paragraph-spacing: 0px;
+  white-space: pre-wrap;
+  will-change: var(--framer-will-change-effect-override, transform);
+  word-break: break-word;
+  word-wrap: break-word;
+  z-index: 3;
+  flex: none;
+  width: 353px;
+  height: 103px;
+  position: relative;
+}
+.framer-XW6WS .framer-wgl55 {
+  --framer-paragraph-spacing: 0px;
+  white-space: pre;
+  z-index: 3;
+  flex: none;
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+.framer-XW6WS .framer-kblybi {
+  height: min-content;
+  overflow: var(--overflow-clip-fallback, clip);
+  will-change: var(--framer-will-change-effect-override, transform);
+  z-index: 3;
+  flex-flow: row;
+  flex: none;
+  place-content: center;
+  align-items: center;
+  gap: 12px;
+  width: min-content;
+  padding: 0 0 43px;
+  display: flex;
+  position: relative;
+}
+.framer-XW6WS .framer-1tw0v {
+  --framer-paragraph-spacing: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  word-wrap: break-word;
+  z-index: 3;
+  flex: none;
+  width: 268px;
+  height: auto;
+  position: relative;
+}
+.framer-XW6WS .framer-12doki4 {
+  z-index: 4;
+  flex-flow: row;
+  flex: none;
+  place-content: center;
+  align-items: center;
+  gap: 0;
+  width: 100%;
+  height: min-content;
+  padding: 0;
+  display: flex;
+  position: relative;
+  overflow: visible;
+}
+.framer-XW6WS .framer-1wjxlx5-container,
+.framer-XW6WS .framer-10otyms-container,
+.framer-XW6WS .framer-1d8hdmj-container,
+.framer-XW6WS .framer-1swvktb-container {
+  flex: none;
+  width: 25%;
+  height: 250px;
+  position: relative;
+}
+.framer-XW6WS .framer-1ywmbld,
+.framer-XW6WS .framer-14ul16c {
+  z-index: 4;
+  flex-flow: row;
+  flex: none;
+  place-content: center flex-end;
+  align-items: center;
+  gap: 0;
+  width: 100%;
+  height: min-content;
+  padding: 0;
+  display: flex;
+  position: relative;
+  overflow: visible;
+}
+.framer-XW6WS .framer-fvagkx,
+.framer-XW6WS .framer-1226uzy,
+.framer-XW6WS .framer-7so5ke {
+  flex: none;
+  align-self: stretch;
+  width: 8%;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.framer-XW6WS .framer-117ly6c {
+  z-index: 4;
+  flex-flow: row;
+  flex: none;
+  place-content: center flex-start;
+  align-items: center;
+  gap: 0;
+  width: 100%;
+  height: min-content;
+  padding: 0;
+  display: flex;
+  position: relative;
+  overflow: visible;
+}
+.framer-XW6WS .framer-z6gt2s {
+  flex: none;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  overflow: visible;
+}
+.framer-XW6WS .framer-hxv36r {
+  height: 100vh;
+  overflow: var(--overflow-clip-fallback, clip);
+  flex-flow: row;
+  flex: none;
+  place-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 0;
+  display: flex;
+  position: relative;
+}
+.framer-XW6WS .framer-1vpnxyd {
+  --framer-paragraph-spacing: 0px;
+  white-space: pre;
+  will-change: var(--framer-will-change-effect-override, transform);
+  z-index: 3;
+  flex: none;
+  width: auto;
+  height: auto;
+  position: relative;
+}
+@media (max-width: 1199.98px) {
+  .framer-XW6WS.framer-ot5tus {
+    width: 390px;
+  }
+}

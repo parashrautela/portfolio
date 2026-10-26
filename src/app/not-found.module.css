@@ -1,0 +1,92 @@
+/* Same look as the live site's (Framer default) "page not found" screen */
+@font-face {
+  font-display: swap;
+  font-family: "Inter Variable UI";
+  font-style: normal;
+  font-weight: 100 900;
+  src: url("/fonts/InterVariable.latin.woff2") format("woff2");
+}
+
+.page {
+  --background: #fff;
+  --text: #666;
+  --text-title: #222;
+  --button-background: #f3f3f3;
+  --button-background-hover: #eee;
+  --button-text: #333;
+  position: fixed;
+  inset: 0;
+  display: flex;
+  box-sizing: border-box;
+  padding: 24px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--background);
+  color: var(--text);
+  font-family: "Inter Variable UI", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
+    sans-serif;
+  font-feature-settings: "cv01" 1, "cv05" 1, "cv09" 1, "cv11" 1;
+}
+
+@media (prefers-color-scheme: dark) {
+  .page {
+    --background: #111;
+    --text: #999;
+    --text-title: #fff;
+    --button-background: #1f1f1f;
+    --button-background-hover: #262626;
+    --button-text: #fff;
+    color-scheme: dark;
+  }
+}
+
+.title {
+  max-width: 200px;
+  margin: 15px 0 10px;
+  text-align: center;
+  text-wrap: balance;
+  color: var(--text-title);
+  font-size: 12px;
+  font-weight: 550;
+  line-height: 1;
+}
+
+.text {
+  max-width: 200px;
+  margin: 0;
+  font-size: 12px;
+  font-weight: 450;
+  letter-spacing: 0;
+  line-height: 1.4;
+  text-align: center;
+  text-wrap: balance;
+}
+
+.button {
+  display: inline-flex;
+  height: 30px;
+  box-sizing: border-box;
+  padding: 0 10px;
+  margin-top: 15px;
+  background-color: var(--button-background);
+  border-radius: 8px;
+  color: var(--button-text);
+  font-size: 12px;
+  font-weight: 450;
+  letter-spacing: 0;
+  line-height: 1;
+  place-content: center;
+  place-items: center;
+  text-decoration: none;
+  transition: background-color 120ms ease;
+}
+
+.button:focus-visible {
+  outline: 2px solid var(--text-title);
+  outline-offset: 2px;
+}
+
+.button:hover {
+  background-color: var(--button-background-hover);
+}

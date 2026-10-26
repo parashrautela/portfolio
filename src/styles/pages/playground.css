@@ -1,0 +1,328 @@
+/* playground page styles */
+@media (min-width: 1200px) {
+  .hidden-1ojy0al {
+    display: none !important;
+  }
+}
+@media (max-width: 1199.98px) {
+  .hidden-1uokspb {
+    display: none !important;
+  }
+}
+.framer-sRoVi.framer-4fbfhx,
+.framer-sRoVi .framer-4fbfhx {
+  display: block;
+}
+.framer-sRoVi.framer-1ojy0al {
+  height: min-content;
+  overflow: var(--overflow-clip-fallback, clip);
+  background-color: #000;
+  flex-flow: column;
+  place-content: center flex-start;
+  align-items: center;
+  gap: 0;
+  width: 1200px;
+  padding: 0;
+  display: flex;
+  position: relative;
+}
+.framer-sRoVi .framer-1lvrcbc {
+  height: min-content;
+  overflow: var(--overflow-clip-fallback, clip);
+  background-color: #fff;
+  flex-flow: column;
+  flex: none;
+  place-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 0;
+  display: flex;
+  position: relative;
+}
+.framer-sRoVi .framer-rcw3jt {
+  flex-flow: row;
+  flex: none;
+  place-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  height: 100vh;
+  padding: 0;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+.framer-sRoVi .framer-ydzh28 {
+  cursor: grab;
+  height: 100%;
+  overflow: var(--overflow-clip-fallback, clip);
+  flex-flow: row;
+  flex: 1 0 0;
+  place-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 1px;
+  padding: 0;
+  display: flex;
+  position: relative;
+}
+.framer-sRoVi .framer-q5huug {
+  border-radius: 10px;
+  flex-flow: row;
+  flex: 1 0 0;
+  place-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 1px;
+  height: 100%;
+  padding: 0;
+  display: flex;
+  position: relative;
+  overflow: visible;
+}
+.framer-sRoVi .framer-h1wa2w-container {
+  z-index: 1;
+  flex: none;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.framer-sRoVi .framer-1aukvug-container {
+  z-index: 1;
+  flex: none;
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 43%;
+  left: 48%;
+  transform: translate(-50%, -50%);
+}
+.framer-sRoVi .framer-1mgfqq3-container {
+  z-index: 2;
+  flex: none;
+  width: 212px;
+  height: auto;
+  position: absolute;
+  top: 2%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.framer-sRoVi .framer-1h5ylt3-container {
+  z-index: 3;
+  flex: none;
+  width: 273px;
+  height: auto;
+  position: absolute;
+  top: 61%;
+  left: 72%;
+  transform: translate(-50%, -50%);
+}
+.framer-sRoVi .framer-lpk0uq-container {
+  z-index: 4;
+  flex: none;
+  width: 238px;
+  height: auto;
+  position: absolute;
+  top: 52%;
+  left: 91%;
+  transform: translate(-50%, -50%);
+}
+.framer-sRoVi .framer-1da6f7v-container {
+  z-index: 5;
+  flex: none;
+  width: 162px;
+  height: auto;
+  position: absolute;
+  top: 12%;
+  left: 21%;
+  transform: translate(-50%, -50%);
+}
+.framer-sRoVi .framer-1aw8pdh-container {
+  z-index: 6;
+  flex: none;
+  width: 316px;
+  height: auto;
+  position: absolute;
+  top: 65%;
+  left: 38%;
+  transform: translate(-50%, -50%);
+}
+.framer-sRoVi .framer-1vu8jmj-container {
+  z-index: 7;
+  flex: none;
+  width: 256px;
+  height: auto;
+  position: absolute;
+  top: 81%;
+  left: 19%;
+  transform: translate(-50%, -50%);
+}
+.framer-sRoVi .framer-fnhhse-container {
+  z-index: 8;
+  flex: none;
+  width: 174px;
+  height: auto;
+  position: absolute;
+  top: 37%;
+  left: 9%;
+  transform: translate(-50%, -50%);
+}
+.framer-sRoVi .framer-1ddn5rh-container {
+  z-index: 9;
+  flex: none;
+  width: 114px;
+  height: auto;
+  position: absolute;
+  top: 18%;
+  left: 83%;
+  transform: translate(-50%, -50%);
+}
+.framer-sRoVi .framer-vhlyps {
+  mix-blend-mode: difference;
+  z-index: 10;
+  flex-flow: row;
+  flex: none;
+  place-content: center;
+  align-items: center;
+  gap: 12px;
+  width: min-content;
+  height: min-content;
+  padding: 0;
+  display: flex;
+  position: absolute;
+  bottom: 139px;
+  left: 50%;
+  overflow: hidden;
+  transform: translate(-50%);
+}
+.framer-sRoVi .framer-1cqfqll {
+  flex: none;
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.framer-sRoVi .framer-12vxwy {
+  --framer-link-text-color: #09f;
+  --framer-link-text-decoration: underline;
+  white-space: pre;
+  flex: none;
+  width: auto;
+  height: auto;
+  position: relative;
+}
+.framer-sRoVi .framer-14xa5sj-container {
+  will-change: var(--framer-will-change-effect-override, transform);
+  z-index: 9;
+  flex: none;
+  width: auto;
+  height: auto;
+  position: fixed;
+  bottom: 32px;
+  left: 50%;
+  transform: translate(-50%);
+}
+@media (max-width: 1199.98px) {
+  .framer-sRoVi.framer-1ojy0al {
+    width: 390px;
+  }
+  .framer-sRoVi .framer-rcw3jt {
+    flex-direction: column;
+  }
+  .framer-sRoVi .framer-ydzh28 {
+    width: 100%;
+    height: 1px;
+  }
+  .framer-sRoVi .framer-1h5ylt3-container {
+    top: 58%;
+    left: 85%;
+  }
+  .framer-sRoVi .framer-lpk0uq-container {
+    top: 53%;
+    left: 103%;
+  }
+  .framer-sRoVi .framer-1da6f7v-container {
+    top: 7%;
+    left: 0%;
+  }
+  .framer-sRoVi .framer-1aw8pdh-container {
+    top: 64%;
+    left: 18%;
+  }
+  .framer-sRoVi .framer-1vu8jmj-container {
+    top: 88%;
+    left: 4%;
+  }
+  .framer-sRoVi .framer-fnhhse-container {
+    top: 33%;
+    left: 0%;
+  }
+  .framer-sRoVi .framer-1ddn5rh-container {
+    top: 18%;
+    left: 85%;
+  }
+  .framer-sRoVi .framer-vhlyps {
+    bottom: unset;
+    height: 20px;
+    left: unset;
+    transform: unset;
+    width: 166px;
+    top: calc(82.5829% - 10px);
+    right: 107px;
+  }
+}
+.framer-lI1Og.framer-n4sbv8,
+.framer-lI1Og .framer-n4sbv8 {
+  display: block;
+}
+.framer-lI1Og.framer-18o118l {
+  cursor: default;
+  height: min-content;
+  overflow: var(--overflow-clip-fallback, clip);
+  flex-flow: column;
+  place-content: flex-start center;
+  align-items: flex-start;
+  gap: 8px;
+  width: 244px;
+  padding: 0;
+  display: flex;
+  position: relative;
+}
+.framer-lI1Og .framer-19qghjb {
+  height: min-content;
+  overflow: var(--overflow-clip-fallback, clip);
+  flex-flow: row;
+  flex: none;
+  place-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 0;
+  display: flex;
+  position: relative;
+}
+.framer-lI1Og .framer-1u5kdf0 {
+  height: auto;
+  overflow: var(--overflow-clip-fallback, clip);
+  will-change: var(--framer-will-change-filter-override, filter);
+  z-index: 1;
+  flex: 1 0 0;
+  width: 1px;
+  position: relative;
+}
+.framer-lI1Og .framer-1ygubow {
+  flex-flow: column;
+  flex: none;
+  place-content: flex-start center;
+  align-items: flex-start;
+  gap: 0;
+  width: 100%;
+  height: min-content;
+  min-height: 31px;
+  padding: 0;
+  display: flex;
+  position: relative;
+  overflow: visible;
+}
