@@ -1763,7 +1763,7 @@
 .framer-knmwL .framer-uka7km {
   overflow: var(--overflow-clip-fallback, clip);
   z-index: 7;
-  background: radial-gradient(75% 75%, #183d6e 0%, #4f8dcd 100%);
+  background: radial-gradient(75% 75% at 50% 50%, #183d6e 0%, #4f8dcd 100%);
   flex-flow: row;
   flex: none;
   place-content: center;
@@ -1779,7 +1779,7 @@
 .framer-knmwL .framer-1y4j42y {
   overflow: var(--overflow-clip-fallback, clip);
   z-index: 6;
-  background: radial-gradient(75% 75%, #183d6e 0%, #4f8dcd 100%);
+  background: radial-gradient(75% 75% at 50% 50%, #183d6e 0%, #4f8dcd 100%);
   flex-flow: row;
   flex: none;
   place-content: center;
@@ -1795,7 +1795,7 @@
 .framer-knmwL .framer-vplwc3 {
   overflow: var(--overflow-clip-fallback, clip);
   z-index: 5;
-  background: radial-gradient(75% 75%, #183d6e 0%, #4f8dcd 100%);
+  background: radial-gradient(75% 75% at 50% 50%, #183d6e 0%, #4f8dcd 100%);
   flex-flow: row;
   flex: none;
   place-content: center;
@@ -1811,7 +1811,7 @@
 .framer-knmwL .framer-cqiv4a {
   overflow: var(--overflow-clip-fallback, clip);
   z-index: 4;
-  background: radial-gradient(75% 75%, #183d6e 0%, #4f8dcd 100%);
+  background: radial-gradient(75% 75% at 50% 50%, #183d6e 0%, #4f8dcd 100%);
   flex-flow: row;
   flex: none;
   place-content: center;
@@ -1827,7 +1827,7 @@
 .framer-knmwL .framer-193y2r9 {
   overflow: var(--overflow-clip-fallback, clip);
   z-index: 3;
-  background: radial-gradient(75% 75%, #183d6e 0%, #4f8dcd 100%);
+  background: radial-gradient(75% 75% at 50% 50%, #183d6e 0%, #4f8dcd 100%);
   flex-flow: row;
   flex: none;
   place-content: center;
@@ -1843,7 +1843,7 @@
 .framer-knmwL .framer-lqw0yg {
   overflow: var(--overflow-clip-fallback, clip);
   z-index: 2;
-  background: radial-gradient(75% 75%, #183d6e 0%, #4f8dcd 100%);
+  background: radial-gradient(75% 75% at 50% 50%, #183d6e 0%, #4f8dcd 100%);
   flex-flow: row;
   flex: none;
   place-content: center;
@@ -1859,7 +1859,7 @@
 .framer-knmwL .framer-otezdo {
   overflow: var(--overflow-clip-fallback, clip);
   z-index: 1;
-  background: radial-gradient(75% 75%, #183d6e 0%, #4f8dcd 100%);
+  background: radial-gradient(75% 75% at 50% 50%, #183d6e 0%, #4f8dcd 100%);
   flex-flow: row;
   flex: none;
   place-content: center;
