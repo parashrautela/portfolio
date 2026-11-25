@@ -5,8 +5,6 @@ import { flushSync } from "react-dom";
 
 type Props = {
   src: string;
-  width: number;
-  height: number;
   /** Fade-out duration in ms once the video has ended */
   fadeDuration?: number;
   overlayColor?: string;
@@ -18,7 +16,7 @@ const useIsoLayoutEffect = typeof window === "undefined" ? useEffect : useLayout
  * Full-screen intro video shown on page load. The page can't be scrolled while it plays;
  * when the video ends the overlay fades out and is removed.
  */
-export default function IntroVideo({ src, width, height, fadeDuration = 900, overlayColor = "#111111" }: Props) {
+export default function IntroVideo({ src, fadeDuration = 900, overlayColor = "#111111" }: Props) {
   const [visible, setVisible] = useState(true);
   const [fading, setFading] = useState(false);
 
@@ -96,13 +94,13 @@ export default function IntroVideo({ src, width, height, fadeDuration = 900, ove
         muted
         onEnded={finish}
         style={{
-          position: "relative",
-          width,
-          height,
+          position: "absolute",
+          inset: 0,
+          width: "100%",
+          height: "100%",
           objectFit: "cover",
           background: "#000",
-          boxShadow: "0 2px 32px rgba(0,0,0,0.18)",
-          borderRadius: 6,
+          display: "block",
           zIndex: 2,
         }}
       />
