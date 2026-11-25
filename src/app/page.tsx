@@ -31,8 +31,6 @@ export default function HomePage() {
         <div className="framer-1r6mbr8-container" data-cursor="none">
           <IntroVideo
             src="/videos/Nb2HFE5qS1kIpXkSEEProV9ygQ.mp4"
-            width={1328}
-            height={1005}
             fadeDuration={2000}
             overlayColor="rgb(0, 0, 0)"
           />
