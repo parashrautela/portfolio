@@ -70,11 +70,8 @@ export default function IntroVideo({ src, fadeDuration = 900, overlayColor = "#1
       role="dialog"
       style={{
         position: "fixed",
+        inset: 0,
         zIndex: 9999,
-        left: 0,
-        top: 0,
-        width: "100vw",
-        height: "100vh",
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
@@ -84,9 +81,6 @@ export default function IntroVideo({ src, fadeDuration = 900, overlayColor = "#1
         transition: `opacity ${fadeDuration}ms ease`,
       }}
     >
-      <div
-        style={{ position: "absolute", top: 0, left: 0, width: "100vw", height: "100vh", zIndex: 1, pointerEvents: "none" }}
-      />
       <video
         src={src}
         autoPlay
