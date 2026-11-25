@@ -11,7 +11,7 @@ export default function TestingPage() {
       <div className="ssr-variant hidden-wfpt00">
         <div className="framer-1bds1jd">
           <BgImage
-            src="fLojDVHuza3veEIWNKjkDgiMmw.png"
+            src="fLojDVHuza3veEIWNKjkDgiMmw.webp"
             width={5120}
             height={3328}
             scales={[512, 1024, 2048, 4096]}
@@ -19,7 +19,7 @@ export default function TestingPage() {
           />
           <div className="framer-1pymubm" data-framer-name="MacBook Air - 10">
             <BgImage
-              src="zzHTeOonn3cmKZlhFqYzn1zj7ak.png"
+              src="zzHTeOonn3cmKZlhFqYzn1zj7ak.webp"
               width={5112}
               height={3328}
               scales={[512, 1024, 2048, 4096]}
@@ -131,7 +131,7 @@ export default function TestingPage() {
       <div className="ssr-variant hidden-wq5lyl">
         <div className="framer-1bds1jd">
           <BgImage
-            src="fLojDVHuza3veEIWNKjkDgiMmw.png"
+            src="fLojDVHuza3veEIWNKjkDgiMmw.webp"
             width={5120}
             height={3328}
             scales={[512, 1024, 2048, 4096]}
@@ -140,7 +140,7 @@ export default function TestingPage() {
           />
           <div className="framer-1pymubm" data-framer-name="MacBook Air - 10">
             <BgImage
-              src="zzHTeOonn3cmKZlhFqYzn1zj7ak.png"
+              src="zzHTeOonn3cmKZlhFqYzn1zj7ak.webp"
               width={5112}
               height={3328}
               scales={[512, 1024, 2048, 4096]}

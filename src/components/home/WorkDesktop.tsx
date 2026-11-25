@@ -58,7 +58,7 @@ export default function WorkDesktop() {
           <div className="framer-b1yoz1" data-framer-name="Frame 1321318302">
             <div className="framer-un71fi" data-framer-name="Frame 1321318299">
               <BgImage
-                src="s1i7CxMJQj0uWGv1KaY5ZIYohg.png"
+                src="s1i7CxMJQj0uWGv1KaY5ZIYohg.webp"
                 width={1792}
                 height={2688}
                 scales={[1024, 2048]}
@@ -66,7 +66,7 @@ export default function WorkDesktop() {
               />
               <div className="framer-3mfzfs">
                 <BgImage
-                  src="3fcPqc2tmTgUE2witc7jd43wVk.png"
+                  src="3fcPqc2tmTgUE2witc7jd43wVk.webp"
                   width={3080}
                   height={1844}
                   scales={[512, 1024, 2048]}
@@ -83,7 +83,7 @@ export default function WorkDesktop() {
             <div className="framer-1h7e0nd" data-framer-name="Frame 1321318299">
               <div className="framer-izgywv">
                 <BgImage
-                  src="lxIc6mRASClvlb7awizMo2QhM.png"
+                  src="lxIc6mRASClvlb7awizMo2QhM.webp"
                   width={896}
                   height={824}
                   scales={[512]}
@@ -92,7 +92,7 @@ export default function WorkDesktop() {
                 />
                 <div className="framer-8n6q7q">
                   <BgImage
-                    src="Pxy4O0eTRpH8ySGQaQbDdSIco.png"
+                    src="Pxy4O0eTRpH8ySGQaQbDdSIco.webp"
                     width={4980}
                     height={3952}
                     scales={[512, 1024, 2048, 4096]}
@@ -104,7 +104,7 @@ export default function WorkDesktop() {
               </div>
               <div className="framer-1jhhg7n">
                 <BgImage
-                  src="Pz2hUj4KAwJziMwNgREskcSj3O4.png"
+                  src="Pz2hUj4KAwJziMwNgREskcSj3O4.webp"
                   width={2108}
                   height={4564}
                   scales={[2048, 4096]}
@@ -116,7 +116,7 @@ export default function WorkDesktop() {
             </div>
             <div className="framer-159jjzb" data-framer-name="Frame 1321318302">
               <BgImage
-                src="Pvm0XKhQN7o0FXt3Qv8JnDNRXA.png"
+                src="Pvm0XKhQN7o0FXt3Qv8JnDNRXA.webp"
                 width={1536}
                 height={2752}
                 scales={[1024, 2048]}
@@ -127,7 +127,7 @@ export default function WorkDesktop() {
             <div className="framer-1dkfx68" data-framer-name="Frame 1321318305">
               <div className="framer-obnuf1" data-framer-name="Frame 1321318303">
                 <BgImage
-                  src="IwYuNmbM6WIeAGqCXZktLijs.png"
+                  src="IwYuNmbM6WIeAGqCXZktLijs.webp"
                   width={940}
                   height={1824}
                   scales={[1024]}
@@ -302,7 +302,7 @@ export default function WorkDesktop() {
             </div>
             <div className="framer-c8bxck" data-framer-name="Frame 1321318301">
               <BgImage
-                src="s1i7CxMJQj0uWGv1KaY5ZIYohg.png"
+                src="s1i7CxMJQj0uWGv1KaY5ZIYohg.webp"
                 width={1792}
                 height={2688}
                 scales={[1024, 2048]}
@@ -310,7 +310,7 @@ export default function WorkDesktop() {
               />
               <div className="framer-sr3u21">
                 <BgImage
-                  src="Xmt4FF8xvbqQkMD49XK3iyHnpUU.png"
+                  src="Xmt4FF8xvbqQkMD49XK3iyHnpUU.webp"
                   width={1556}
                   height={2034}
                   scales={[1024]}
@@ -320,7 +320,7 @@ export default function WorkDesktop() {
             </div>
             <div className="framer-18e5yzq" data-framer-name="Frame 1321318301">
               <BgImage
-                src="I4b5roUZxLRpfhDqyYF25B5QI.png"
+                src="I4b5roUZxLRpfhDqyYF25B5QI.webp"
                 width={2752}
                 height={1536}
                 scales={[512, 1024, 2048]}
@@ -389,7 +389,7 @@ export default function WorkDesktop() {
             </div>
             <div className="framer-a0x5vv">
               <BgImage
-                src="wrBMFA89GpiEHeSNdCeRMNl3NM.png"
+                src="wrBMFA89GpiEHeSNdCeRMNl3NM.webp"
                 width={2752}
                 height={1536}
                 scales={[512, 1024, 2048]}
@@ -402,7 +402,7 @@ export default function WorkDesktop() {
             <div className="framer-o2xlvi">
               <div className="framer-lxwdk9" data-framer-name="Frame 1321318299">
                 <BgImage
-                  src="z1MpNYFaOuBBfB7XwFyBxohSq0.png"
+                  src="z1MpNYFaOuBBfB7XwFyBxohSq0.webp"
                   width={880}
                   height={4179}
                   scales={[4096]}
@@ -414,7 +414,7 @@ export default function WorkDesktop() {
             </div>
             <div className="framer-vcc9kv" data-framer-name="Frame 1321318302">
               <BgImage
-                src="b4ii7lbU5IABslgwh3yCaHjXL4.png"
+                src="b4ii7lbU5IABslgwh3yCaHjXL4.webp"
                 width={1692}
                 height={1348}
                 scales={[512, 1024]}
@@ -430,7 +430,7 @@ export default function WorkDesktop() {
                 style={{ width: "auto", aspectRatio: "0.8089330024813896" }}
               >
                 <BgImage
-                  src="dzLgN5ZCluorZ7ubNY4dP57VvyA.png"
+                  src="dzLgN5ZCluorZ7ubNY4dP57VvyA.webp"
                   width={1304}
                   height={1612}
                   scales={[1024]}
@@ -669,7 +669,7 @@ export default function WorkDesktop() {
           <div className="framer-wbl3kf" data-framer-name="Frame 1321318302">
             <div className="framer-1sdgb5h" data-framer-name="Frame 1321318299">
               <BgImage
-                src="5iRSUPKnXIPE7vdEE3wzBL3QWE.png"
+                src="5iRSUPKnXIPE7vdEE3wzBL3QWE.webp"
                 width={2980}
                 height={1824}
                 scales={[512, 1024, 2048]}
@@ -689,7 +689,7 @@ export default function WorkDesktop() {
                   style={{ height: "auto", aspectRatio: "1.131578947368421" }}
                 >
                   <BgImage
-                    src="tCu7BRQiFxn3kxbM1drvfRDq1lg.png"
+                    src="tCu7BRQiFxn3kxbM1drvfRDq1lg.webp"
                     width={1032}
                     height={912}
                     scales={[512, 1024]}
@@ -704,7 +704,7 @@ export default function WorkDesktop() {
                 style={{ height: "auto", aspectRatio: "1.4112458654906284" }}
               >
                 <BgImage
-                  src="axj2UrOw1PX3ajYPPsLcPDBbTGM.jpeg"
+                  src="axj2UrOw1PX3ajYPPsLcPDBbTGM.webp"
                   width={1280}
                   height={907}
                   scales={[512, 1024]}
@@ -717,7 +717,7 @@ export default function WorkDesktop() {
                 style={{ height: "auto", aspectRatio: "0.8825503355704698" }}
               >
                 <BgImage
-                  src="rq30kxkjIXxQ2FKsyxZ0EvYs.png"
+                  src="rq30kxkjIXxQ2FKsyxZ0EvYs.webp"
                   width={526}
                   height={596}
                   sizes="(min-width: 1200px) max((100vw - 752px) / 2, 1px), (max-width: 1199.98px) max((100vw - 752px) / 2, 1px)"
@@ -735,7 +735,7 @@ export default function WorkDesktop() {
                 style={{ width: "auto", aspectRatio: "0.7575187969924813" }}
               >
                 <BgImage
-                  src="isQq1DTTI8ZKq9Oja4V3KaisW7Q.png"
+                  src="isQq1DTTI8ZKq9Oja4V3KaisW7Q.webp"
                   width={1612}
                   height={2128}
                   scales={[1024, 2048]}

@@ -26,7 +26,7 @@ export default function PlaygroundPage() {
               <div className="framer-1aukvug-container">
                 <CanvasCard aspectRatio={1.7843137254901962}>
                   <BgImage
-                    src="EBhoErTa8sFGxxTEooKQhvYbu7U.png"
+                    src="EBhoErTa8sFGxxTEooKQhvYbu7U.webp"
                     width={2912}
                     height={1632}
                     scales={[512, 1024, 2048]}
@@ -37,7 +37,7 @@ export default function PlaygroundPage() {
               <div className="framer-1mgfqq3-container">
                 <CanvasCard style={{ width: "100%" }} aspectRatio={1}>
                   <BgImage
-                    src="mm1IOEzELvmb8fkx66ZfuSpnMo.png"
+                    src="mm1IOEzELvmb8fkx66ZfuSpnMo.webp"
                     width={1024}
                     height={1024}
                     scales={[512]}
@@ -49,7 +49,7 @@ export default function PlaygroundPage() {
                 <div className="framer-1h5ylt3-container">
                   <CanvasCard style={{ width: "100%" }} aspectRatio={0.5543478260869565}>
                     <BgImage
-                      src="xoVrkyiUaH8T0dg7ToSUY2akuA.png"
+                      src="xoVrkyiUaH8T0dg7ToSUY2akuA.webp"
                       width={1632}
                       height={2944}
                       scales={[1024, 2048]}
@@ -62,7 +62,7 @@ export default function PlaygroundPage() {
                 <div className="framer-lpk0uq-container">
                   <CanvasCard style={{ width: "100%" }} aspectRatio={0.6666666666666666}>
                     <BgImage
-                      src="aCGR2tbR1iz3SHkteEvYP9jfhM.png"
+                      src="aCGR2tbR1iz3SHkteEvYP9jfhM.webp"
                       width={1792}
                       height={2688}
                       scales={[1024, 2048]}
@@ -75,7 +75,7 @@ export default function PlaygroundPage() {
                 <div className="framer-1da6f7v-container">
                   <CanvasCard style={{ width: "100%" }} aspectRatio={0.5604395604395604}>
                     <BgImage
-                      src="hxadBYxjvEeKooEzBnyiyISpXtg.png"
+                      src="hxadBYxjvEeKooEzBnyiyISpXtg.webp"
                       width={1632}
                       height={2912}
                       scales={[1024, 2048]}
@@ -88,7 +88,7 @@ export default function PlaygroundPage() {
                 <div className="framer-1aw8pdh-container">
                   <CanvasCard style={{ width: "100%" }} aspectRatio={1.7777777777777777}>
                     <BgImage
-                      src="VoiCCq1QuEt3MdkX3pVhwWlyRk.jpg"
+                      src="VoiCCq1QuEt3MdkX3pVhwWlyRk.webp"
                       width={3840}
                       height={2160}
                       scales={[512, 1024, 2048]}
@@ -101,7 +101,7 @@ export default function PlaygroundPage() {
                 <div className="framer-1vu8jmj-container">
                   <CanvasCard style={{ width: "100%" }} aspectRatio={1.7843137254901962}>
                     <BgImage
-                      src="jldsEh8iKddoXwPKgsGwHFvyXc.png"
+                      src="jldsEh8iKddoXwPKgsGwHFvyXc.webp"
                       width={2912}
                       height={1632}
                       scales={[512, 1024, 2048]}
@@ -114,7 +114,7 @@ export default function PlaygroundPage() {
                 <div className="framer-fnhhse-container">
                   <CanvasCard style={{ width: "100%" }} aspectRatio={1.7827715355805243}>
                     <BgImage
-                      src="R08R7C7q5A3f4QkSd0P2T2my8w.png"
+                      src="R08R7C7q5A3f4QkSd0P2T2my8w.webp"
                       width={952}
                       height={534}
                       scales={[512]}
@@ -127,7 +127,7 @@ export default function PlaygroundPage() {
                 <div className="framer-1ddn5rh-container">
                   <CanvasCard style={{ width: "100%" }} aspectRatio={1}>
                     <BgImage
-                      src="Rp8g5GsIfYZLorbj0efa6iAoZUA.png"
+                      src="Rp8g5GsIfYZLorbj0efa6iAoZUA.webp"
                       width={1024}
                       height={1024}
                       scales={[512]}

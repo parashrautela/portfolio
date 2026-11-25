@@ -13,9 +13,9 @@ type Props = {
 };
 
 const photos = [
-  { src: "HaY5RImw2RAjjUid6YZ7DWAh1bU.png", width: 1856, height: 2464, position: "47% 2.6%" },
-  { src: "7qhCfeCFTVHTChSJ2VjIl5OYlVA.png", width: 1536, height: 2752, position: "42.8% 42.2%" },
-  { src: "LS6WZ27lzepQEOaLyWLHHm5vdkA.png", width: 1536, height: 2752, position: "52.1% 37.8%" },
+  { src: "HaY5RImw2RAjjUid6YZ7DWAh1bU.webp", width: 1856, height: 2464, position: "47% 2.6%" },
+  { src: "7qhCfeCFTVHTChSJ2VjIl5OYlVA.webp", width: 1536, height: 2752, position: "42.8% 42.2%" },
+  { src: "LS6WZ27lzepQEOaLyWLHHm5vdkA.webp", width: 1536, height: 2752, position: "52.1% 37.8%" },
 ];
 const stateClass = ["framer-v-rtcpe", "framer-v-10sbvb2", "framer-v-12pycs8"];
 const stateName = ["First", "Second", "Third"];

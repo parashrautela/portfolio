@@ -1,7 +1,7 @@
 import type { CSSProperties } from "react";
 
 type Props = {
-  /** File name inside /public/images, e.g. "UM4G6C01dOAos8wYlsZbi0CtvTE.png" */
+  /** File name inside /public/images, e.g. "UM4G6C01dOAos8wYlsZbi0CtvTE.webp" */
   src: string;
   /** Intrinsic size of the original image */
   width?: number;

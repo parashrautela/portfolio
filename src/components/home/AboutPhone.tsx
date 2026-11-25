@@ -262,7 +262,7 @@ export default function AboutPhone() {
                       ]}
                     >
                       <BgImage
-                        src="t7BJ6QZ0v5iEeflDlcB6jN19iw.png"
+                        src="t7BJ6QZ0v5iEeflDlcB6jN19iw.webp"
                         width={4572}
                         height={8192}
                         scales={[1024, 2048, 4096]}
