@@ -35,7 +35,7 @@ export default function AboutPage() {
                     style={{ height: "100%", width: "100%" }}
                   >
                     <BgImage
-                      src="guSOhJg3I3pMbKUSfyqh6zOy9g.jpg"
+                      src="guSOhJg3I3pMbKUSfyqh6zOy9g.webp"
                       width={4576}
                       height={3432}
                       scales={[512, 1024, 2048, 4096]}

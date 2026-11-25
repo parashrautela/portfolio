@@ -269,7 +269,7 @@ export default function AboutDesktop() {
                     ]}
                   >
                     <BgImage
-                      src="jzUgBuwsK3dHuEEeAKtymltTxE.png"
+                      src="jzUgBuwsK3dHuEEeAKtymltTxE.webp"
                       width={1229}
                       height={730}
                       scales={[512, 1024]}
@@ -291,7 +291,7 @@ export default function AboutDesktop() {
                     ]}
                   >
                     <BgImage
-                      src="t7BJ6QZ0v5iEeflDlcB6jN19iw.png"
+                      src="t7BJ6QZ0v5iEeflDlcB6jN19iw.webp"
                       width={4572}
                       height={8192}
                       scales={[1024, 2048, 4096]}
@@ -312,7 +312,7 @@ export default function AboutDesktop() {
                     ]}
                   >
                     <BgImage
-                      src="3ex9YbFCSQrWrM4o9juYzVCZn4.png"
+                      src="3ex9YbFCSQrWrM4o9juYzVCZn4.webp"
                       width={1377}
                       height={922}
                       scales={[512, 1024]}

@@ -139,7 +139,7 @@ export default function UnrollPage() {
             <div className="framer-12doki4" data-framer-name="Row 1">
               <div className="framer-1wjxlx5-container">
                 <UnrollingImage
-                  src="/images/5MHVgoPWUQlSxsXNQtDw5nWw.jpg"
+                  src="/images/5MHVgoPWUQlSxsXNQtDw5nWw.webp"
                   angle={45}
                   startAlign="center"
                   duration={1.5}
@@ -149,7 +149,7 @@ export default function UnrollPage() {
             <div className="framer-1ywmbld" data-framer-name="Row 2">
               <div className="framer-10otyms-container">
                 <UnrollingImage
-                  src="/images/I6XipHhE9OD0q7GsA0fzvKWU28.jpg"
+                  src="/images/I6XipHhE9OD0q7GsA0fzvKWU28.webp"
                   angle={45}
                   startAlign="center"
                   duration={1.5}
@@ -161,7 +161,7 @@ export default function UnrollPage() {
               <div className="framer-1226uzy" data-framer-name="Space" />
               <div className="framer-1d8hdmj-container">
                 <UnrollingImage
-                  src="/images/MSqSONTU5XD5YgrKNk65mLfbgus.jpg"
+                  src="/images/MSqSONTU5XD5YgrKNk65mLfbgus.webp"
                   angle={45}
                   startAlign="center"
                   duration={1.5}
@@ -171,7 +171,7 @@ export default function UnrollPage() {
             <div className="framer-14ul16c" data-framer-name="Row 4">
               <div className="framer-1swvktb-container">
                 <UnrollingImage
-                  src="/images/3BnHFLXcpRLlHMRfNlB67El2ySo.jpg"
+                  src="/images/3BnHFLXcpRLlHMRfNlB67El2ySo.webp"
                   angle={45}
                   startAlign="center"
                   duration={1.5}

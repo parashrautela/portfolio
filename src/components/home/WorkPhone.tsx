@@ -59,7 +59,7 @@ export default function WorkPhone() {
             <div className="ssr-variant hidden-1pbhxf">
               <div className="framer-16tn505" data-framer-name="Frame 1321318343">
                 <BgImage
-                  src="s1i7CxMJQj0uWGv1KaY5ZIYohg.png"
+                  src="s1i7CxMJQj0uWGv1KaY5ZIYohg.webp"
                   width={1792}
                   height={2688}
                   scales={[1024, 2048]}
@@ -67,7 +67,7 @@ export default function WorkPhone() {
                 />
                 <div className="framer-btgczn" style={{ height: "auto", aspectRatio: "0.7649950835791544" }}>
                   <BgImage
-                    src="Xmt4FF8xvbqQkMD49XK3iyHnpUU.png"
+                    src="Xmt4FF8xvbqQkMD49XK3iyHnpUU.webp"
                     width={1556}
                     height={2034}
                     scales={[1024]}
@@ -79,7 +79,7 @@ export default function WorkPhone() {
             <div className="ssr-variant hidden-1ctwl6p">
               <div className="framer-16tn505" data-framer-name="Frame 1321318343">
                 <BgImage
-                  src="s1i7CxMJQj0uWGv1KaY5ZIYohg.png"
+                  src="s1i7CxMJQj0uWGv1KaY5ZIYohg.webp"
                   width={1792}
                   height={2688}
                   scales={[1024, 2048]}
@@ -87,7 +87,7 @@ export default function WorkPhone() {
                 />
                 <div className="framer-btgczn" style={{ height: "auto", aspectRatio: "0.7649950835791544" }}>
                   <BgImage
-                    src="Xmt4FF8xvbqQkMD49XK3iyHnpUU.png"
+                    src="Xmt4FF8xvbqQkMD49XK3iyHnpUU.webp"
                     width={1556}
                     height={2034}
                     scales={[1024]}
@@ -99,7 +99,7 @@ export default function WorkPhone() {
             <div className="ssr-variant hidden-1pbhxf">
               <div className="framer-1v853ze" data-framer-name="Frame 1321318344">
                 <BgImage
-                  src="I4b5roUZxLRpfhDqyYF25B5QI.png"
+                  src="I4b5roUZxLRpfhDqyYF25B5QI.webp"
                   width={2752}
                   height={1536}
                   scales={[512, 1024, 2048]}
@@ -110,7 +110,7 @@ export default function WorkPhone() {
             <div className="ssr-variant hidden-1ctwl6p">
               <div className="framer-1v853ze" data-framer-name="Frame 1321318344">
                 <BgImage
-                  src="I4b5roUZxLRpfhDqyYF25B5QI.png"
+                  src="I4b5roUZxLRpfhDqyYF25B5QI.webp"
                   width={2752}
                   height={1536}
                   scales={[512, 1024, 2048]}
@@ -122,7 +122,7 @@ export default function WorkPhone() {
           <div className="ssr-variant hidden-1pbhxf">
             <div className="framer-1vh739u" data-framer-name="Frame 1321318343">
               <BgImage
-                src="s1i7CxMJQj0uWGv1KaY5ZIYohg.png"
+                src="s1i7CxMJQj0uWGv1KaY5ZIYohg.webp"
                 width={1792}
                 height={2688}
                 scales={[1024, 2048]}
@@ -130,7 +130,7 @@ export default function WorkPhone() {
               />
               <div className="framer-1dyqzah">
                 <BgImage
-                  src="3fcPqc2tmTgUE2witc7jd43wVk.png"
+                  src="3fcPqc2tmTgUE2witc7jd43wVk.webp"
                   width={3080}
                   height={1844}
                   scales={[512, 1024, 2048]}
@@ -143,7 +143,7 @@ export default function WorkPhone() {
           <div className="ssr-variant hidden-1ctwl6p">
             <div className="framer-1vh739u" data-framer-name="Frame 1321318343">
               <BgImage
-                src="s1i7CxMJQj0uWGv1KaY5ZIYohg.png"
+                src="s1i7CxMJQj0uWGv1KaY5ZIYohg.webp"
                 width={1792}
                 height={2688}
                 scales={[1024, 2048]}
@@ -151,7 +151,7 @@ export default function WorkPhone() {
               />
               <div className="framer-1dyqzah">
                 <BgImage
-                  src="3fcPqc2tmTgUE2witc7jd43wVk.png"
+                  src="3fcPqc2tmTgUE2witc7jd43wVk.webp"
                   width={3080}
                   height={1844}
                   scales={[512, 1024, 2048]}
@@ -168,7 +168,7 @@ export default function WorkPhone() {
             <div className="ssr-variant hidden-1pbhxf">
               <div className="framer-1itri3i" data-framer-name="Frame 1321318303">
                 <BgImage
-                  src="iWqI2P20M0DuBIDUBkPOp4uC1zc.png"
+                  src="iWqI2P20M0DuBIDUBkPOp4uC1zc.webp"
                   width={896}
                   height={1344}
                   scales={[1024]}
@@ -176,7 +176,7 @@ export default function WorkPhone() {
                 />
                 <div className="framer-1siftey">
                   <BgImage
-                    src="8O0XKuEmFAP0aLXTN0TnewDSPU.png"
+                    src="8O0XKuEmFAP0aLXTN0TnewDSPU.webp"
                     width={1684}
                     height={5488}
                     scales={[2048, 4096]}
@@ -188,7 +188,7 @@ export default function WorkPhone() {
             <div className="ssr-variant hidden-1ctwl6p">
               <div className="framer-1itri3i" data-framer-name="Frame 1321318303">
                 <BgImage
-                  src="iWqI2P20M0DuBIDUBkPOp4uC1zc.png"
+                  src="iWqI2P20M0DuBIDUBkPOp4uC1zc.webp"
                   width={896}
                   height={1344}
                   scales={[1024]}
@@ -196,7 +196,7 @@ export default function WorkPhone() {
                 />
                 <div className="framer-1siftey">
                   <BgImage
-                    src="8O0XKuEmFAP0aLXTN0TnewDSPU.png"
+                    src="8O0XKuEmFAP0aLXTN0TnewDSPU.webp"
                     width={1684}
                     height={5488}
                     scales={[2048, 4096]}
@@ -210,7 +210,7 @@ export default function WorkPhone() {
             <div className="ssr-variant hidden-1pbhxf">
               <div className="framer-ztbn65">
                 <BgImage
-                  src="fXrs4erFhR2s4CS1NeS3FH8ETg.png"
+                  src="fXrs4erFhR2s4CS1NeS3FH8ETg.webp"
                   width={2752}
                   height={1536}
                   scales={[512, 1024, 2048]}
@@ -221,7 +221,7 @@ export default function WorkPhone() {
             <div className="ssr-variant hidden-1ctwl6p">
               <div className="framer-ztbn65">
                 <BgImage
-                  src="fXrs4erFhR2s4CS1NeS3FH8ETg.png"
+                  src="fXrs4erFhR2s4CS1NeS3FH8ETg.webp"
                   width={2752}
                   height={1536}
                   scales={[512, 1024, 2048]}
@@ -431,7 +431,7 @@ export default function WorkPhone() {
               <div className="ssr-variant hidden-1pbhxf">
                 <div className="framer-ci1419" data-framer-name="Frame 1321318343">
                   <BgImage
-                    src="enHUa0VIRcq2D3TsNBPSA1vEvI.png"
+                    src="enHUa0VIRcq2D3TsNBPSA1vEvI.webp"
                     width={1699}
                     height={1318}
                     scales={[512, 1024]}
@@ -442,7 +442,7 @@ export default function WorkPhone() {
               <div className="ssr-variant hidden-1ctwl6p">
                 <div className="framer-ci1419" data-framer-name="Frame 1321318343">
                   <BgImage
-                    src="enHUa0VIRcq2D3TsNBPSA1vEvI.png"
+                    src="enHUa0VIRcq2D3TsNBPSA1vEvI.webp"
                     width={1699}
                     height={1318}
                     scales={[512, 1024]}
@@ -453,7 +453,7 @@ export default function WorkPhone() {
               <div className="ssr-variant hidden-1pbhxf">
                 <div className="framer-19rr4bh" data-framer-name="Frame 1321318343">
                   <BgImage
-                    src="8wNNvv5bb1j2ON6zIXOZN6qdUE.png"
+                    src="8wNNvv5bb1j2ON6zIXOZN6qdUE.webp"
                     width={1716}
                     height={1318}
                     scales={[512, 1024]}
@@ -467,7 +467,7 @@ export default function WorkPhone() {
               <div className="ssr-variant hidden-1ctwl6p">
                 <div className="framer-19rr4bh" data-framer-name="Frame 1321318343">
                   <BgImage
-                    src="8wNNvv5bb1j2ON6zIXOZN6qdUE.png"
+                    src="8wNNvv5bb1j2ON6zIXOZN6qdUE.webp"
                     width={1716}
                     height={1318}
                     scales={[512, 1024]}
@@ -486,7 +486,7 @@ export default function WorkPhone() {
                 style={{ height: "auto", aspectRatio: "0.6855895196506551" }}
               >
                 <BgImage
-                  src="ZirgpbxdOUS7bNFQaIKySqEWFE.png"
+                  src="ZirgpbxdOUS7bNFQaIKySqEWFE.webp"
                   width={942}
                   height={1374}
                   scales={[1024]}
@@ -502,7 +502,7 @@ export default function WorkPhone() {
                 style={{ height: "auto", aspectRatio: "0.6855895196506551" }}
               >
                 <BgImage
-                  src="ZirgpbxdOUS7bNFQaIKySqEWFE.png"
+                  src="ZirgpbxdOUS7bNFQaIKySqEWFE.webp"
                   width={942}
                   height={1374}
                   scales={[1024]}
@@ -528,7 +528,7 @@ export default function WorkPhone() {
           <div className="ssr-variant hidden-1pbhxf">
             <div className="framer-1mplacm">
               <BgImage
-                src="onUXl15m10OhJI5u4oQunshh1Zs.jpg"
+                src="onUXl15m10OhJI5u4oQunshh1Zs.webp"
                 width={4096}
                 height={4096}
                 scales={[512, 1024, 2048]}
@@ -539,7 +539,7 @@ export default function WorkPhone() {
           <div className="ssr-variant hidden-1ctwl6p">
             <div className="framer-1mplacm">
               <BgImage
-                src="onUXl15m10OhJI5u4oQunshh1Zs.jpg"
+                src="onUXl15m10OhJI5u4oQunshh1Zs.webp"
                 width={4096}
                 height={4096}
                 scales={[512, 1024, 2048]}
@@ -742,7 +742,7 @@ export default function WorkPhone() {
             <div className="ssr-variant hidden-1pbhxf">
               <div className="framer-13uye79" data-framer-name="Frame 1321318343">
                 <BgImage
-                  src="axj2UrOw1PX3ajYPPsLcPDBbTGM.jpeg"
+                  src="axj2UrOw1PX3ajYPPsLcPDBbTGM.webp"
                   width={1280}
                   height={907}
                   scales={[512, 1024]}
@@ -753,7 +753,7 @@ export default function WorkPhone() {
             <div className="ssr-variant hidden-1ctwl6p">
               <div className="framer-13uye79" data-framer-name="Frame 1321318343">
                 <BgImage
-                  src="axj2UrOw1PX3ajYPPsLcPDBbTGM.jpeg"
+                  src="axj2UrOw1PX3ajYPPsLcPDBbTGM.webp"
                   width={1280}
                   height={907}
                   scales={[512, 1024]}
@@ -775,7 +775,7 @@ export default function WorkPhone() {
             <div className="ssr-variant hidden-1pbhxf">
               <div className="framer-1u3uuid" data-framer-name="Frame 1321318303">
                 <BgImage
-                  src="isQq1DTTI8ZKq9Oja4V3KaisW7Q.png"
+                  src="isQq1DTTI8ZKq9Oja4V3KaisW7Q.webp"
                   width={1612}
                   height={2128}
                   scales={[1024, 2048]}
@@ -786,7 +786,7 @@ export default function WorkPhone() {
             <div className="ssr-variant hidden-1ctwl6p">
               <div className="framer-1u3uuid" data-framer-name="Frame 1321318303">
                 <BgImage
-                  src="isQq1DTTI8ZKq9Oja4V3KaisW7Q.png"
+                  src="isQq1DTTI8ZKq9Oja4V3KaisW7Q.webp"
                   width={1612}
                   height={2128}
                   scales={[1024, 2048]}
@@ -798,7 +798,7 @@ export default function WorkPhone() {
           <div className="ssr-variant hidden-1pbhxf">
             <div className="framer-1y353qc" data-framer-name="Frame 1321318343">
               <BgImage
-                src="5iRSUPKnXIPE7vdEE3wzBL3QWE.png"
+                src="5iRSUPKnXIPE7vdEE3wzBL3QWE.webp"
                 width={2980}
                 height={1824}
                 scales={[512, 1024, 2048]}
@@ -809,7 +809,7 @@ export default function WorkPhone() {
           <div className="ssr-variant hidden-1ctwl6p">
             <div className="framer-1y353qc" data-framer-name="Frame 1321318343">
               <BgImage
-                src="5iRSUPKnXIPE7vdEE3wzBL3QWE.png"
+                src="5iRSUPKnXIPE7vdEE3wzBL3QWE.webp"
                 width={2980}
                 height={1824}
                 scales={[512, 1024, 2048]}

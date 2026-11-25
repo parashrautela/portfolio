@@ -14,22 +14,22 @@ export const metadata: Metadata = {
   description,
   icons: {
     icon: [
-      { url: "/images/2JBoKvVS7xd1UcOSej73mBb6vE.png", media: "(prefers-color-scheme: light)" },
-      { url: "/images/6pvkGAu9dmalfR7aY8WUPravZU.png", media: "(prefers-color-scheme: dark)" },
+      { url: "/images/2JBoKvVS7xd1UcOSej73mBb6vE.webp", media: "(prefers-color-scheme: light)" },
+      { url: "/images/6pvkGAu9dmalfR7aY8WUPravZU.webp", media: "(prefers-color-scheme: dark)" },
     ],
-    apple: "/images/6V1U39kYdiLH0XO4mqU8lj8rxyU.png",
+    apple: "/images/6V1U39kYdiLH0XO4mqU8lj8rxyU.webp",
   },
   openGraph: {
     type: "website",
     title,
     description,
-    images: "/images/Oe015qMeMs2AODuODOLUAQgX66Y.png",
+    images: "/images/Oe015qMeMs2AODuODOLUAQgX66Y.webp",
   },
   twitter: {
     card: "summary_large_image",
     title,
     description,
-    images: "/images/Oe015qMeMs2AODuODOLUAQgX66Y.png",
+    images: "/images/Oe015qMeMs2AODuODOLUAQgX66Y.webp",
   },
   robots: { "max-image-preview": "large" },
 };

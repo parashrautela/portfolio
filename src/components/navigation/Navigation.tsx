@@ -59,7 +59,7 @@ function Logo({ current }: { current: boolean }) {
   return (
     <Link className="framer-fkqheb framer-1wah7jz" href="/" data-framer-page-link-current={current ? "true" : undefined}>
       <BgImage
-        src="PWNFxFRREdvfApytv3KFyOq9fcQ.jpg"
+        src="PWNFxFRREdvfApytv3KFyOq9fcQ.webp"
         width={828}
         height={1174}
         scales={[1024]}

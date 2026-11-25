@@ -218,7 +218,7 @@ export default function SideProjects() {
             rel="noopener"
           >
             <div className="framer-1gvsprw-container">
-              <ImageParallax src="/images/FuL60lgXAC1m7Vo81eVXSffaoQY.png" amount={80} />
+              <ImageParallax src="/images/FuL60lgXAC1m7Vo81eVXSffaoQY.webp" amount={80} />
             </div>
           </a>
           <div className="framer-1wlu95s" data-framer-name="Heading">
@@ -646,7 +646,7 @@ export default function SideProjects() {
             rel="noopener"
           >
             <div className="framer-1mnevl1-container">
-              <ImageParallax src="/images/aCGR2tbR1iz3SHkteEvYP9jfhM.png" amount={80} />
+              <ImageParallax src="/images/aCGR2tbR1iz3SHkteEvYP9jfhM.webp" amount={80} />
             </div>
           </a>
           <div className="framer-mbgy3y" data-framer-name="Heading">
@@ -1031,7 +1031,7 @@ export default function SideProjects() {
           </div>
           <div className="framer-ux9h8j" data-cursor="under-nda">
             <div className="framer-vu0jfe-container">
-              <ImageParallax src="/images/K3Dh4FF8gDuLtIBSzU6I4sZFeQ.png" amount={80} />
+              <ImageParallax src="/images/K3Dh4FF8gDuLtIBSzU6I4sZFeQ.webp" amount={80} />
             </div>
           </div>
           <div className="framer-1gmqny7" data-framer-name="Heading">
@@ -1500,7 +1500,7 @@ export default function SideProjects() {
           </div>
           <div className="framer-wenvts" data-cursor="under-construction">
             <div className="framer-1d1ug1j-container">
-              <ImageParallax src="/images/KAaD1l2oUmoBZRYxV9fTK0Zzzk.png" amount={80} />
+              <ImageParallax src="/images/KAaD1l2oUmoBZRYxV9fTK0Zzzk.webp" amount={80} />
             </div>
           </div>
           <div className="framer-hnogo6" data-framer-name="Heading">

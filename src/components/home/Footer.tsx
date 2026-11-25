@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="ssr-variant hidden-1pbhxf">
         <div className="framer-1sdkzt8">
           <BgImage
-            src="fLojDVHuza3veEIWNKjkDgiMmw.png"
+            src="fLojDVHuza3veEIWNKjkDgiMmw.webp"
             width={5120}
             height={3328}
             scales={[512, 1024, 2048, 4096]}
@@ -210,7 +210,7 @@ export default function Footer() {
       <div className="ssr-variant hidden-1ctwl6p">
         <div className="framer-1sdkzt8">
           <BgImage
-            src="fLojDVHuza3veEIWNKjkDgiMmw.png"
+            src="fLojDVHuza3veEIWNKjkDgiMmw.webp"
             width={5120}
             height={3328}
             scales={[512, 1024, 2048, 4096]}

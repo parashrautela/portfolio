@@ -291,7 +291,7 @@ export default function Hero() {
       <div className="ssr-variant">
         <Parallax className="framer-1rxm6z6" data-framer-name="Space ship" speed={180}>
           <BgImage
-            src="UM4G6C01dOAos8wYlsZbi0CtvTE.png"
+            src="UM4G6C01dOAos8wYlsZbi0CtvTE.webp"
             width={7424}
             height={7155}
             scales={[512, 1024, 2048, 4096]}
